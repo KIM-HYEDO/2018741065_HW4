@@ -8,5 +8,5 @@ test basic repository functions
 * Local에서 Commit
 * Remote로 Push
 * 저는 김혜도 입니다.
-* 자는 것을 좋아하고 게임하는 것을 사랑합니다.
+* 자는 것을 좋아하고 게임하는 것을 사랑합니다. by Hyoseok
 ###를 연습하기 위해 만들어졌습니다.
