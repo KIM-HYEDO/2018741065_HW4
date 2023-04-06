@@ -10,3 +10,5 @@ test basic repository functions
 * 저는 김혜도 입니다.
 * 자는 것을 좋아하고 게임하는 것을 사랑합니다. by Hyoseok
 ###를 연습하기 위해 만들어졌습니다.
+### 이 'repository'는 fork와 pull request를 연습하기 위해 만들어졌습니다.
+### 이 내용은 JooHyoSeok 계정으로 작업했습니다.
